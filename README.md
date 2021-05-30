@@ -1,3 +1,5 @@
+test
+
 # TabSorter2
 
 A Tab Manager for Google Chrome; Merge, Sort, Split, and More :)
